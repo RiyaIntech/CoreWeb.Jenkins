@@ -8,7 +8,7 @@ namespace CoreWeb.Jenkins.Controllers
   {
     private static readonly string[] Users = new[]
     {
-        "Riya", "Rashmin", "Dhaval", "Harsh"
+        "Riya", "Rashmin", "Dhaval", "Harsh","Jainam"
     };
 
 

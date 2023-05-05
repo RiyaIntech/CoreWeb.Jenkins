@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "owc0Uo30fRTn9YIZpgF/g2U7YgvgQJghdw1FkYE0PYM=",
+  "Source": "CoreWeb.Jenkins",
+  "BasePath": "_content/CoreWeb.Jenkins",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
